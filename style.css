@@ -40,3 +40,7 @@ span.info {
     font-style: italic;
     color: gray;
 }
+
+span.subinfo {
+    color: #18664A;
+}
